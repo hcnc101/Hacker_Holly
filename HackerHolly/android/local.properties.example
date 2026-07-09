@@ -1,0 +1,2 @@
+# Copy to android/local.properties and adjust sdk.dir for your machine.
+sdk.dir=/home/ubuntu/Android/Sdk
