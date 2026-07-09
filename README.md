@@ -1,6 +1,8 @@
 # Hacker_Holly
 
-React Native mobile app with a Linux/Android development environment.
+**He Said What?** — a React Native app that translates male-speak into plain English.
+
+Paste what he said. Get the subtext he won't give you.
 
 ## Project layout
 
